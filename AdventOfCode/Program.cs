@@ -15,6 +15,7 @@ namespace AdventOfCode
             {
                 Console.WriteLine();
                 Console.WriteLine(FormatHelper.FunctionFormat(solution));
+                Console.ReadLine();
             }
         }
     }
